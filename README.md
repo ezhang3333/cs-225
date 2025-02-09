@@ -1,6 +1,6 @@
 # CS225 - Data Structures and Algorithms
 
-This repository contains projects, labs, and exercises from CS 225 (Data Structures) at [Your University].
+This repository contains projects, labs, and exercises from CS 225 (Data Structures)
 
 ## 📂 Contents
 - **Labs**: Implementations of hash tables, trees, dictionaries, bloom filters, heaps, stacks, queues, etc. 
